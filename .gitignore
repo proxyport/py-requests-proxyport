@@ -1,0 +1,4 @@
+dist/
+requests_proxyport.egg-info/
+.idea
+*.pyc
